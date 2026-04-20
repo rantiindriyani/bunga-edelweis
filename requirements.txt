@@ -1,6 +1,6 @@
 streamlit==1.56.0
 ultralytics==8.4.40
-opencv-python-headless==4.13.0.92
+opencv-python-headless
 Pillow
 PyYAML
 numpy
