@@ -1,6 +1,6 @@
-streamlit
-ultralytics
-opencv-python-headless
+streamlit==1.35.0
+ultralytics==8.2.103
+opencv-python-headless==4.10.0.84
 Pillow
 PyYAML
-numpy
+numpy<2
