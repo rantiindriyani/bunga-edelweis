@@ -3,7 +3,10 @@ val: ../valid/images
 test: ../test/images
 
 nc: 3
-names: ['Mekar', 'Penyemaian', 'Sangat_Mekar']
+names:
+  - Mekar
+  - Penyemaian
+  - Sangat_Mekar
 
 roboflow:
   workspace: edelweis-6kc48
